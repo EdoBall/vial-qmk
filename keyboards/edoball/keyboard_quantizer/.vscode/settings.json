@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "quantizer_mouse.h": "c",
+        "report_parser.h": "c"
+    }
+}
